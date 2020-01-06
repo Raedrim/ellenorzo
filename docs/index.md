@@ -5,7 +5,7 @@ Ez egy **nem hivatalos** ellenőrző alkalmazás, ami kompatibilis a magyarorsz�
 _Az alkalmazást nem az eKréta Informatikai Zrt. fejlesztette, ezért az esetleges problémákkal, kérdésekkel kapcsolatban ne az ő ügyfélszolgálatukat keresd!_
 
 #### Miben különbözik ez az alkalmazás a hivatalostól?
-Az elsődleges cél, hogy gyorsabb, megbízhatóbb, használhatóbb legyen. Jelenleg nem minden funkció támogatott (pl. nincs tanmenet, szöveges értékelés).
+Az elsődleges cél, hogy gyorsabb, megbízhatóbb, több funkciót használó, felhasználóbarátabb programot készítsünk.
 
 #### Ötletem van, hova küldhetem?
 Minden ötletet szívesen fogadunk a cowareapps@gmail.com címen. Sajnos az alkalmazás továbbfejlesztésének korlátokat szab, hogy hivatalos dokumentáció híján csak azokkal az adatokkal tudunk dolgozni, amivel a hivatalos alkalmazás is dolgozik.
@@ -16,11 +16,11 @@ Az alkalmazás közvetlenül az e-napló szervereivel kommunikál titkosított k
 ### Felhasználási feltételek
 Ezt az alkalmazást a készítők és a közreműködők "ahogy van" adják közre, és minden nyílt vagy burkolt garanciajogot visszautasítanak vele kapcsolatban, ideértve de nem kizárólagosan az eladhatóságra vagy az egy adott célra való alkalmazhatóságra vonatkozó garanciát. A készítők nem vonhatók felelősségre semmilyen, a szoftver használatából eredő esemény kapcsán, mely közvetlen, közvetett, véletlenszerű, különleges, példátlan vagy szükségszerű módon bekövetkező kárhoz vezet még akkor sem, ha a károsodás lehetősége előre látható volt.
 
-A szoftver [nyílt forráskódú](https://github.com/Coware-Apps/naplo/), a [GPLv3](https://github.com/Coware-Apps/naplo/blob/master/LICENSE) licenc alatt terjesztjük.
+A szoftver [nyílt forráskódú](https://github.com/Coware-Apps/ellenorzo), a [GPLv3](https://github.com/Coware-Apps/ellenorzo/blob/master/LICENSE) licenc alatt terjesztjük.
 
 ### Felhasznált projektek
 - A program az Ionic Framework használatával készült (MIT)
-- A logóban található ikont Paomedia készítette (CC BY 3.0)
+- A logóban található ikont az Iconsider Studio készítette [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
 
 ### Adatkezelés
 A program személyes adatokat nem gyűjt és nem továbbít a fejlesztők felé. Az adatkezelési tájékoztatót [ezen az oldalon](https://coware-apps.github.io/naplo/privacy) olvashatod.
